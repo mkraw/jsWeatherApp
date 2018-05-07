@@ -1,0 +1,1 @@
+A simple app to find weather in your location
